@@ -1,0 +1,9 @@
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/RankableObjectWithFieldsTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/MockTupleHelpers.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/RankingsTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/SlidingWindowCounterTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+/home/sebas/apache-storm-0.10.0/examples/storm-starter/test/jvm/storm/starter/tools/SlotBasedCounterTest.java
